@@ -51,4 +51,7 @@ Detector performance on seen-once symbol H:
 
 It only achieves detection of one symbol out of 4 on the image. Lowering confidence threshold brings background images to be detected. Increasing performance is possible but requires more thorough thinking of the detector and finetuning.
 
--> Better detector, better data augmentation, better preprocessing and post-processing are my ideas for further refining.
+Further refining idea: 
+- better detector
+- better data augmentation for simCLR
+- better preprocessing and post-processing
