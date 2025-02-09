@@ -35,7 +35,7 @@ Finetuning on the firefighting symbols
 
 T-SNE clustering without finetuning. As expected, SimCLR pains to differentiate symbols at first.
 
-![Clustering without training](./results/without_training.png)
+![Clustering without training](./results/without_training_.png)
 
 After training:
 
